@@ -1,10 +1,9 @@
-# apex-identity-governance-zero-trust
-Enterprise Microsoft Entra ID IAM capstone implementing automated identity lifecycle, hybrid identity, access governance, PIM, Conditional Access, workload identities, and Zero Trust for a 500-user manufacturing environment.
-
 Apex Entra Identity Modernization — Business Requirements
+
 Portfolio Disclaimer: Apex Manufacturing Group, Orion Parts, all users, business data, and scenarios in this repository are fictional. This project is a hands-on enterprise IAM simulation created to demonstrate Microsoft Entra ID engineering, security, automation, governance, and Zero Trust capabilities.
 
 Executive Summary
+
 Apex Manufacturing Group is a simulated manufacturing organization with approximately 500 users, contractors, remote employees, Microsoft 365, Azure resources, SaaS applications, and a legacy on-premises Active Directory environment.
 
 Following the acquisition of Orion Parts, Apex must modernize identity and access management across two organizations while reducing manual administration, excessive privilege, stale access, authentication risk, and limited audit visibility.

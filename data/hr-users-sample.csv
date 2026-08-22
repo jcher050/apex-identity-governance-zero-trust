@@ -2,3 +2,5 @@ EmployeeId,FirstName,LastName,Department,JobTitle,Manager,EmploymentType
 APX001,John,Carter,Finance,Financial Analyst,Sarah Miller,Employee
 APX002,Maria,Lopez,Engineering,Systems Engineer,David Kim,Employee
 APX003,Robert,Jones,Operations,Operations Specialist,Lisa Brown,Contractor
+APX004,Roberta,Maria,Operations,Operations Specialist,Lisa Brown,Contractor
+APX005,Lisa,santana,Operations,Operations Specialist,Lisa Brown,Contractor

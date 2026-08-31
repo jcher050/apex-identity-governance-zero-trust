@@ -30,7 +30,6 @@ New-MgRoleManagementDirectoryRoleAssignment
 
 
 
-
 #Foundational powershell command for adninistratrion 
 
 Get-Service

@@ -1,6 +1,7 @@
 # Connect-EntraGraph.ps1
 # Purpose: Establish Microsoft Graph connectivity for the Apex IAM automation project.
-#Installing and connecting to Microsoft Graph PowerShell module
+# Installing and connecting to Microsoft Graph PowerShell module
+
 Set-ExecutionPolicy -ExecutionPolicy Bypass
 EXPLANATION: Temporarily sets the script execution policy to Bypass, allowing all scripts to run without prompts or warnings.
 
